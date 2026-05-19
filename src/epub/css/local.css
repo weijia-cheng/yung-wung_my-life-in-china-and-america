@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
@@ -54,4 +55,9 @@ div header{
 footer{
 	margin-top: 1em;
 	text-align: right;
+}
+
+blockquote[xml|lang~="zh"]{
+	font-size: larger;
+	text-align: center;
 }
