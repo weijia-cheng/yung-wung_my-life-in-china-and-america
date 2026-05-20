@@ -4,12 +4,12 @@
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
-	font-variant-caps: all-small-caps;
+	font-variant: all-small-caps;
 	text-align: center;
 }
 
 section[epub|type~="dedication"] b{
-	font-variant-caps: normal;
+	font-variant: normal;
 	text-transform: uppercase;
 }
 
