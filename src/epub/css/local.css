@@ -61,3 +61,8 @@ blockquote[xml|lang~="zh"]{
 	font-size: larger;
 	text-align: center;
 }
+
+#chapter-19 blockquote header{
+	font-style: italic;
+	margin: 1em;
+}
