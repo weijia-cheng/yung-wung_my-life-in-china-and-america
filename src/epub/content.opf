@@ -43,9 +43,9 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">A Chinese-American graduate of Yale reflects on his experiences as a student and civil servant.</dc:description>
+		<dc:description id="description">A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Born in a family of humble origins near Macau, <a href="https://standardebooks.org/ebooks/yung-wing">Yung Wing</a> was educated in an English-language mission school. As a teenager, he was given the opportunity to attend a boarding school in Massachusetts. Afterwards, he enrolled at Yale and graduated in 1854, becoming the first Chinese graduate of an American university, as well as a naturalized citizen of the United States. In his memoir <i>My Life in China and America</i>, Yung Wing recounts his experiences, beginning with his childhood and ending with his civil service in the Chinese government. He provides a firsthand account of major historical events like the Taiping Rebellion, the Qing dynasty’s modernization efforts, and Empress Dowager Cixi’s palace coup. Yung Wing’s memoir, which explores the complexities entailed by an intercultural and international identity, is one of the earliest examples of Chinese-American literature.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54635</dc:source>
