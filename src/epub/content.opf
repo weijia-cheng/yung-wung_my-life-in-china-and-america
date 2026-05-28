@@ -62,6 +62,12 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="writer-of-supplementary-textual-content">Joseph H. Twichell</dc:contributor>
+		<meta property="file-as" refines="#writer-of-supplementary-textual-content">Twichell, Joseph H.</meta>
+		<meta property="se:name.person.full-name" refines="#writer-of-supplementary-textual-content">Joseph Hopkins Twichell</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-supplementary-textual-content">https://en.wikipedia.org/wiki/Joseph_Twichell</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-supplementary-textual-content">http://id.loc.gov/authorities/names/n88640727</meta>
+		<meta property="role" refines="#writer-of-supplementary-textual-content" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">William Daniell</dc:contributor>
 		<meta property="file-as" refines="#artist">Daniell, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Daniell</meta>
